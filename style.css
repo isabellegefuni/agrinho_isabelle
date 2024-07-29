@@ -1,6 +1,6 @@
 /* Estilização para o cabeçalho (header) */
 header {
-    background-color: #ebe3e8;
+    background-color: #ffffff;
     padding: 10px;
     text-align: center;
     margin: 0%;
@@ -15,7 +15,7 @@ header {
     nav a {
     margin: 0 10px;
     text-decoration: none;
-    color: #f0f0f0;
+    color: #131212;
     }
     
     /* Estilização para o body (cor de fundo ) */
